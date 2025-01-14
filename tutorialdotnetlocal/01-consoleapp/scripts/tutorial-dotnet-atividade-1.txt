@@ -1,0 +1,22 @@
+Atividade Tutorial 1:
+
+I. Projeto principal.
+	I.1. Alterar a classe Main para escrever os parâmetros passados como argumentos no console de Debug.
+	
+II. Projeto de testes
+
+public void MainTest()
+{
+    //TODO: Fazer a chamada do método Main da classe Program da Aplicação e passar parametro vazio.
+}
+
+public void MainArgsTest()
+{
+    //TODO: Fazer a chamada do método Main da classe Program da Aplicação e passar como parâmetro a string "Hello, World!".
+
+}
+
+public void MainArgs2Test(string args)
+{
+    //TODO: Fazer a chamada do método Main da classe Program da Aplicação e passar como parâmetro a string "Hello, World!", através dos atributos do xUnit.
+}

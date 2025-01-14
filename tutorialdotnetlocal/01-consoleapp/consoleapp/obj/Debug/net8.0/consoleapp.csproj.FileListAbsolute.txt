@@ -1,0 +1,14 @@
+/home/Rezende/projects/tutorialdotnetlocal/01-consoleapp/consoleapp/bin/Debug/net8.0/consoleapp
+/home/Rezende/projects/tutorialdotnetlocal/01-consoleapp/consoleapp/bin/Debug/net8.0/consoleapp.deps.json
+/home/Rezende/projects/tutorialdotnetlocal/01-consoleapp/consoleapp/bin/Debug/net8.0/consoleapp.runtimeconfig.json
+/home/Rezende/projects/tutorialdotnetlocal/01-consoleapp/consoleapp/bin/Debug/net8.0/consoleapp.dll
+/home/Rezende/projects/tutorialdotnetlocal/01-consoleapp/consoleapp/bin/Debug/net8.0/consoleapp.pdb
+/home/Rezende/projects/tutorialdotnetlocal/01-consoleapp/consoleapp/obj/Debug/net8.0/consoleapp.GeneratedMSBuildEditorConfig.editorconfig
+/home/Rezende/projects/tutorialdotnetlocal/01-consoleapp/consoleapp/obj/Debug/net8.0/consoleapp.AssemblyInfoInputs.cache
+/home/Rezende/projects/tutorialdotnetlocal/01-consoleapp/consoleapp/obj/Debug/net8.0/consoleapp.AssemblyInfo.cs
+/home/Rezende/projects/tutorialdotnetlocal/01-consoleapp/consoleapp/obj/Debug/net8.0/consoleapp.csproj.CoreCompileInputs.cache
+/home/Rezende/projects/tutorialdotnetlocal/01-consoleapp/consoleapp/obj/Debug/net8.0/consoleapp.dll
+/home/Rezende/projects/tutorialdotnetlocal/01-consoleapp/consoleapp/obj/Debug/net8.0/refint/consoleapp.dll
+/home/Rezende/projects/tutorialdotnetlocal/01-consoleapp/consoleapp/obj/Debug/net8.0/consoleapp.pdb
+/home/Rezende/projects/tutorialdotnetlocal/01-consoleapp/consoleapp/obj/Debug/net8.0/consoleapp.genruntimeconfig.cache
+/home/Rezende/projects/tutorialdotnetlocal/01-consoleapp/consoleapp/obj/Debug/net8.0/ref/consoleapp.dll
